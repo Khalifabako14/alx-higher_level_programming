@@ -1,5 +1,5 @@
 # Higher Level Programming Projects
-This repo contains all the projects that I have done in the alx-Holberton curriculum on Higher level programming.
+This repo contains all the projects that I have done in the ALX-Holberton curriculum on Higher level programming.
 
 
 ## What Does High-Level Language (HLL) Mean?
@@ -10,4 +10,5 @@ A high-level language has a higher level of abstraction from the computer, and f
 | Projects | Description |
 | -------- | ----------- | 
 | [0x00-python-hello_world](0x00-python-hello_world) | All about introduction to python. A bit about Technical interview prep |
-.
+| [0x01-python-if_else_loops_functions](0x01-python-if_else_loops_functions) | All about utilising conditionals and loops in Python |
+
