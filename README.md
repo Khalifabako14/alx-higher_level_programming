@@ -13,5 +13,6 @@ A high-level language has a higher level of abstraction from the computer, and f
 | [0x01-python-if_else_loops_functions](0x01-python-if_else_loops_functions) | All about utilising conditionals and loops in Python. |
 | [0x02-python-import_modules](0x02-python-import_modules) | All about importing and using functions and creating modules in Python. |
 | [0x03-python-data_structures](0x03-python-data_structures) | All about data structures and using lists and tuples in Python. |
-| [0x04-python-more_data_structures](00x04-python-more_data_structures) | All about data sets and dictionaries in Python. |
-
+| [0x04-python-more_data_structures](0x04-python-more_data_structures) | All about data sets and dictionaries in Python. |
+| [0x05-python-exceptions](0x05-python-exceptions) | All about handling errors and exceptions in Python with try and except. |
+| [0x06-python-classes](0x06-python-classes) | All about handling attributes, methods, and properties as well as data abstraction, data encapsulation, and information hiding. |
