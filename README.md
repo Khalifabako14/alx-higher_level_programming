@@ -19,3 +19,4 @@ A high-level language has a higher level of abstraction from the computer, and f
 | [0x05-python-exceptions](0x05-python-exceptions) | All about handling errors and exceptions in Python with try and except. |
 | [0x06-python-classes](0x06-python-classes) | All about handling attributes, methods, and properties as well as data abstraction, data encapsulation, and information hiding. |
 | [0x07-python-test_driven_development](0x07-python-test_driven_development) | All about practicing test-driven development using docstringand unittest in Python. |
+| [0x08-python-more_classes](0x08-python-more_classes) | All about class methods, static methods, class vs instance attributes, andbhow to use the special __str__ and __repr__ methods. |
